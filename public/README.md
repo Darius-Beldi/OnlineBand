@@ -1,0 +1,1 @@
+Here are the public files, like textures and 3D objects

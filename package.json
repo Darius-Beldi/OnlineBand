@@ -1,0 +1,25 @@
+{
+  "name": "onlineband",
+  "version": "1.0.0",
+  "description": "An online website with interactive instruments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darius-Beldi/OnlineBand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darius-Beldi/OnlineBand/issues"
+  },
+  "homepage": "https://github.com/Darius-Beldi/OnlineBand#readme",
+  "dependencies": {
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.9"
+  }
+}
